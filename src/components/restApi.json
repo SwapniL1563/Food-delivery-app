@@ -1,9 +1,10 @@
+
 {
     "data": [
         {"ourQualities" : [
             {
                 "id": 1,
-                "image": "./quality_food.svg",
+                "image": "../public/quality_food.svg",
                 "title": "QUALITY FOOD",
                 "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
             },
@@ -23,7 +24,7 @@
         "dishes": [
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
+                "image": "../public/dinner1.jpeg",
                 "title": "ROASTED LAMB RUMP",
                 "category": "Dinner"
             },
@@ -99,7 +100,7 @@
         "testimonials": [
             {
                 "id": 1,
-                "image": "./review1.png",
+                "image": "../public/review1.png",
                 "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
                 "rating": 4,
                 "userName": "Jane Cooper"

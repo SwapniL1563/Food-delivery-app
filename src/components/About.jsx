@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { HiOutlineArrowRight } from "react-icons/hi";
+import about from "../public/about.png"
 
 const About = () => {
   return (
@@ -28,7 +29,7 @@ const About = () => {
             </Link>
           </div>
           <div className="banner">
-            <img src="about.png" alt="about" />
+            <img src={about} alt="about" />
           </div>
         </div>
       </section>
