@@ -1,6 +1,6 @@
 // import React from "react";
 import Navbar from "./Navbar";
-import heroimg from "../public/hero1.png"
+import heroimg from "./hero1.png"
 import threeline from "../public/threelines.svg"
 import logo from "../public/logo.png"
 import hero2 from "../public/hero2.png"
